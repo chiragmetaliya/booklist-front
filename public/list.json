@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Not A Penny More, Not A Penny Less",
+        "title": "Not A Penny More, Not A Penny Less By Jeffrey Archer",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "title": "To Kill a Mockingbird By Harper Lee",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "title": "1984 By George Orwell",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "title": "Pride and Prejudice By Jane Austen",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 5,
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby By F. Scott Fitzgerald",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 6,
+        "name": "The Catcher in the Rye",
+        "title": "The Catcher in the Rye By J.D. Salinger",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 7,
+        "name": "The Hobbit",
+        "title": "The Hobbit By J.R.R. Tolkien",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Moby Dick",
+        "title": "Moby Dick By Herman Melville",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 9,
+        "name": "War and Peace",
+        "title": "War and Peace By Leo Tolstoy",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Crime and Punishment",
+        "title": "Crime and Punishment By Fyodor Dostoevsky",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Jane Eyre",
+        "title": "Jane Eyre By Charlotte Bronte",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Wuthering Heights",
+        "title": "Wuthering Heights By Emily Bronte",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 13,
+        "name": "Brave New World",
+        "title": "Brave New World By Aldous Huxley",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 14,
+        "name": "The Odyssey",
+        "title": "The Odyssey By Homer",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 15,
+        "name": "The Iliad",
+        "title": "The Iliad By Homer",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 16,
+        "name": "The Adventures of Huckleberry Finn",
+        "title": "The Adventures of Huckleberry Finn By Mark Twain",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 17,
+        "name": "Little Women",
+        "title": "Little Women By Louisa May Alcott",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 18,
+        "name": "Great Expectations",
+        "title": "Great Expectations By Charles Dickens",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 19,
+        "name": "Catch-22",
+        "title": "Catch-22 By Joseph Heller",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 20,
+        "name": "The Brothers Karamazov",
+        "title": "The Brothers Karamazov By Fyodor Dostoevsky",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 21,
+        "name": "The Lord of the Rings",
+        "title": "The Lord of the Rings By J.R.R. Tolkien",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 22,
+        "name": "Anna Karenina",
+        "title": "Anna Karenina By Leo Tolstoy",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 23,
+        "name": "Don Quixote",
+        "title": "Don Quixote By Miguel de Cervantes",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 24,
+        "name": "One Hundred Years of Solitude",
+        "title": "One Hundred Years of Solitude By Gabriel Garcia Marquez",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 25,
+        "name": "The Divine Comedy",
+        "title": "The Divine Comedy By Dante Alighieri",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    },
+    {
+        "id": 26,
+        "name": "Madame Bovary",
+        "title": "Madame Bovary By Gustave Flaubert",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723067934~exp=1723071534~hmac=a17f4acf405263d4a346039c140c0fa1f7d822c4bf237a2e7d99d4794a4f2e50&w=740"
+    }
+]
