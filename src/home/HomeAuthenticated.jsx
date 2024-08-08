@@ -4,7 +4,7 @@ import Banner from "../components/Banner";
 import Paidbook from "../components/Courses";
 import Footer from "../components/Footer";
 
-function Home() {
+function HomeAuthenticated() {
   return (
     <>
       <Navbar />
@@ -14,4 +14,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default HomeAuthenticated;
