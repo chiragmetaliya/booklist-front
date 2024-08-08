@@ -3,6 +3,7 @@ import { useState } from "react";
 import Login from "./Login";
 import Logout from "./Logout";
 import { useAuth } from "../context/AuthProvider";
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   const [authUser, setAuthUser] = useAuth();
@@ -39,27 +40,26 @@ function Navbar() {
   const navItems = (
     <>
       <li>
-        <a href="/">Home</a>
+        <Link to="/">Home</Link>
       </li>
       <li>
-        <a href="/">Course</a>
+        <Link to="/courses">Courses</Link>
       </li>
       <li>
-        <a>Contact</a>
+        <Link to="/">Contact</Link>
       </li>
       <li>
-        <a>About</a>
+        <Link to="/">About</Link>
       </li>
     </>
   );
   return (
     <>
       <div
-        className={` max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-800 dark:text-white fixed top-0 left-0 right-0 z-50 ${
-          sticky
+        className={` max-w-screen-2xl container mx-auto md:px-20 px-4 dark:bg-slate-800 dark:text-white fixed top-0 left-0 right-0 z-50 ${sticky
             ? "sticky-navbar shadow-md bg-base-200 dark:bg-slate-700 dark:text-white duration-300 transition-all ease-in-out"
             : ""
-        }`}
+          }`}
       >
         <div className="navbar ">
           <div className="navbar-start">

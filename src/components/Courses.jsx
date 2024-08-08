@@ -7,16 +7,16 @@ import Slider from "react-slick";
 import axios from "axios";
 
 import Cards from "./Cards";
-function Freebook() {
+function Paidbook() {
   const [book, setBook] = useState([]);
   useEffect(() => {
     const getBook = async () => {
       try {
         const res = await axios.get("https://booklist-back-1.onrender.com/paidbooks");
 
-        const data = res.data.filter((data) => data.category === "Free");
+        //const data = res.data.filter((data) => data.category === "Free");
         console.log(data);
-        setBook(data);
+        setBook(res.data);
       } catch (error) {
         console.log(error);
       }
@@ -81,4 +81,4 @@ function Freebook() {
     </>
   );
 }
-export default Freebook;
+export default Paidbook;
