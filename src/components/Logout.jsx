@@ -14,7 +14,8 @@ function Logout() {
       toast.success("Logout successfully");
 
       setTimeout(() => {
-        window.location.reload();
+        //window.location.reload();
+        window.location.href = "/";
       }, 3000);
     } catch (error) {
       toast.error("Error: " + error);
