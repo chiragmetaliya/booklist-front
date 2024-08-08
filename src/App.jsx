@@ -1,26 +1,25 @@
-import React, { useState } from "react";
+import React from "react";
 import Home from "./home/Home";
+import { Navigate, Route, Routes } from "react-router-dom";
 import Courses from "./courses/Courses";
 import Signup from "./components/Signup";
 import { Toaster } from "react-hot-toast";
 import { useAuth } from "./context/AuthProvider";
 
 function App() {
-  const [authUser] = useAuth();
-  const [view, setView] = useState("home"); // State to manage which view to show
-
+  const [authUser, setAuthUser] = useAuth();
+  console.log(authUser);
   return (
     <>
       <div className="dark:bg-slate-900 dark:text-white">
-        {authUser ? (
-          <>
-            <Navbar setView={setView} /> {/* Pass setView to Navbar */}
-            {view === "home" && <Home />}
-            {view === "courses" && <Courses />}
-          </>
-        ) : (
-          <Signup />
-        )}
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route
+            path="/"
+            element={authUser ? <Courses /> : <Navigate to="/signup" />}
+          />
+          <Route path="/signup" element={<Signup />} />
+        </Routes>
         <Toaster />
       </div>
     </>
