@@ -14,8 +14,8 @@ function Paidbook() {
       try {
         const res = await axios.get("https://booklist-back-1.onrender.com/book/paidbooks");
 
-        //const data = res.data.filter((data) => data.category === "Free");
-        //console.log(data);
+        const data = res.data.filter((data) => data.category !== "Free");
+        console.log(data);
         setBook(res.data);
       } catch (error) {
         console.log(error);

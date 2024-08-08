@@ -8,6 +8,7 @@ function HomeAuthenticated() {
   return (
     <>
       <Navbar />
+      <Banner />
       <Paidbook />
       <Footer />
     </>
