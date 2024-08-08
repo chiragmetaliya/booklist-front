@@ -12,7 +12,7 @@ function Paidbook() {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get("https://booklist-back-1.onrender.com/paidbooks");
+        const res = await axios.get("https://booklist-back-1.onrender.com/book/paidbooks");
 
         //const data = res.data.filter((data) => data.category === "Free");
         console.log(data);
